@@ -1,5 +1,6 @@
-# Weather App
+# The Amazing (and Slightly Neurotic) Weather App 🌦️ <br><br>
 
+<img src="https://github.com/YugamPatel/WeatherApp/blob/main/Screenshot%202023-09-03%20at%2012.06.57%20PM.png"></img> <br><br>
 ## Overview
 
 This is a weather application designed to provide real-time weather information. The application features a user-friendly interface and provides essential details such as current temperature, weather condition, and location-based data.
