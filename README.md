@@ -3,7 +3,7 @@
 <img src="https://github.com/YugamPatel/WeatherApp/blob/main/WeatherApp.png"></img> <br><br>
 
 # Live at :
-## https://yugamspersonalprojects.on.drv.tw/www.weatherapp.com/ <br><br>
+## https://cloudcast10.netlify.app <br><br>
 
 ## Overview
 
